@@ -10978,7 +10978,7 @@ footer.style-13 {
         margin: 0 10px;
         color: white; }
         footer.style-13 .foot .links a:hover {
-          color: black; }
+          color: var(--color-secondary); }
 
 @media screen and (min-width: 991px) {
   footer.style-13 {
