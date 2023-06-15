@@ -377,7 +377,7 @@ body {
   color: #fff; }
 
 .home-style-13 a:hover {
-  color: var(--color-orange3); }
+  color: var(--color-secondary); }
 
 .home-style-15 {
   background-color: #0c0125;
@@ -2658,7 +2658,7 @@ small.text {
     margin: 0 15px;
     text-transform: capitalize; }
     .navbar.style-13 .nav-link:hover {
-      color: var(--color-orange3); }
+      color: var(--color-secondary); }
 
 .navbar.style-14 {
   position: absolute;
@@ -3640,7 +3640,7 @@ header.style-13 {
         top: -20px;
         height: 25px;
         width: 1px;
-        background-color: var(--color-orange3);
+        background-color: var(--color-secondary);
         -webkit-animation: afterline 5s ease-in-out infinite;
         animation: afterline 5s ease-in-out infinite; }
       header.style-13 .lines span:nth-of-type(1) {
